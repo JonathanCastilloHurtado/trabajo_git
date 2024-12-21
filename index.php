@@ -99,7 +99,7 @@
             <p>Haz clic en tu foto o agrega una cuenta.</p>
             <div class="accounts">
                 <div class="account">
-                    <img src="https://via.placeholder.com/100" alt="Jonathan">
+                    <img src="imagenes/profe.png" alt="Jonathan">
                     <p>Jonathan</p>
                 </div>
                 <div class="account">
